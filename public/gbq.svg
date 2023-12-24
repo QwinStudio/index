@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: $$$/GeneralStr/196=Adobe Illustrator 27.6.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 394 80" style="enable-background:new 0 0 394 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'JosefinSans-Bold';}
+	.st1{font-size:62.0878px;}
+	.st2{fill:none;}
+	.st3{clip-path:url(#SVGID_00000148650598031370505290000003265074246866110859_);}
+	
+		.st4{clip-path:url(#SVGID_00000148650598031370505290000003265074246866110859_);fill:none;stroke:#000000;stroke-width:3.223051e-02;stroke-miterlimit:10;}
+	
+		.st5{clip-path:url(#SVGID_00000053542038669903210300000009487664676993451447_);fill:url(#SVGID_00000162311132759833854730000008168226929086908292_);}
+</style>
+<text transform="matrix(1 0 0 1 58.3818 62.2334)" class="st0 st1">Gebit Qwin</text>
+<rect x="89.9" y="32.3" class="st2" width="87.9" height="0.4"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-19.9" y="-8.3" width="96.7" height="96.7"/>
+		</defs>
+		<clipPath id="SVGID_00000007422699326279155840000008796683913457467555_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<polygon style="clip-path:url(#SVGID_00000007422699326279155840000008796683913457467555_);" points="52.6,27.2 40.7,34 
+			28.7,27.2 16.8,34 16.8,34 16.8,47.6 16.8,47.6 28.7,54.3 28.7,67.9 16.8,61.1 16.8,61.1 16.8,61.1 13.6,59.3 4.9,54.3 4.9,27.2 
+			10.4,24.1 10.4,24.1 16.8,20.5 28.7,13.7 28.7,13.7 40.7,20.5 47,24.1 		"/>
+		
+			<polygon style="clip-path:url(#SVGID_00000007422699326279155840000008796683913457467555_);fill:none;stroke:#000000;stroke-width:3.223051e-02;stroke-miterlimit:10;" points="
+			52.6,27.2 40.7,34 28.7,27.2 16.8,34 16.8,34 16.8,47.6 16.8,47.6 28.7,54.3 28.7,67.9 16.8,61.1 16.8,61.1 16.8,61.1 13.6,59.3 
+			4.9,54.3 4.9,27.2 10.4,24.1 10.4,24.1 16.8,20.5 28.7,13.7 28.7,13.7 40.7,20.5 47,24.1 		"/>
+		<g style="clip-path:url(#SVGID_00000007422699326279155840000008796683913457467555_);">
+			<defs>
+				<polygon id="SVGID_00000148654247421546645940000014435964329302291861_" points="52.6,40.8 52.6,54.3 52.6,54.3 43.8,59.3 
+					40.7,61.1 40.7,47.6 52.6,40.8 				"/>
+			</defs>
+			<clipPath id="SVGID_00000036244418014432101180000002977300460669053106_">
+				<use xlink:href="#SVGID_00000148654247421546645940000014435964329302291861_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<linearGradient id="SVGID_00000147179834975117871210000005629649610875529391_" gradientUnits="userSpaceOnUse" x1="-4.859" y1="77.0172" x2="-4.7945" y2="77.0172" gradientTransform="matrix(184.8099 0 0 -184.8099 938.64 14284.4902)">
+				<stop  offset="0" style="stop-color:#00BFDA"/>
+				<stop  offset="0.376" style="stop-color:#03BEDB"/>
+				<stop  offset="1" style="stop-color:#39ABF3"/>
+			</linearGradient>
+			
+				<rect x="40.7" y="40.8" style="clip-path:url(#SVGID_00000036244418014432101180000002977300460669053106_);fill:url(#SVGID_00000147179834975117871210000005629649610875529391_);" width="11.9" height="20.3"/>
+		</g>
+	</g>
+</g>
+</svg>
