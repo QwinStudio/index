@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from 'next/image';
 
 export default function 主页() {
   return (
@@ -101,5 +101,5 @@ export default function 主页() {
         </a>
       </div>
     </main>
-  )
+  );
 }
