@@ -39,13 +39,13 @@ export default function 主页() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            文章{' '}
+            文章&nbsp;
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Gebit Qwin's
+            Gebit Qwin&apos;s
           </p>
         </a>
 
@@ -56,7 +56,7 @@ export default function 主页() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            文档{' '}
+            文档&nbsp;
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
@@ -73,13 +73,13 @@ export default function 主页() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            博客{' '}
+            博客&nbsp;
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Rieder Fake's
+            Rieder Fake&apos;s
           </p>
         </a>
 
@@ -90,7 +90,7 @@ export default function 主页() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            论坛{' '}
+            论坛&nbsp;
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
