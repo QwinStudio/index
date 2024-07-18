@@ -15,7 +15,7 @@ export default function 主页() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Powered by Gebit Qwin.
+            Powered by Gebit & Rieder.
           </a>
         </div>
       </div>
@@ -73,13 +73,13 @@ export default function 主页() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            博客&nbsp;
+            灵感&nbsp;
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Rieder Fake&apos;s
+            一点灵感 我们的小站&apos;s
           </p>
         </a>
 
