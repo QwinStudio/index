@@ -79,7 +79,7 @@ export default function 主页() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            一点灵感 我们的小站&apos;s
+            一点灵感 我们的小站&apos;
           </p>
         </a>
 
