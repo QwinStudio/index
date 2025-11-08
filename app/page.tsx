@@ -5,17 +5,17 @@ export default function 主页() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Cyclone X
-          <code className="font-mono font-bold">|Home</code>
+          JIYUGebit
+          <code className="font-mono font-bold">|HomePage</code>
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <a
             className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://gebitqwin.com"
+            href="https://jiyugebit.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Powered by Gebit & Rieder.
+            ©2025 JIYUGebit
           </a>
         </div>
       </div>
@@ -33,53 +33,53 @@ export default function 主页() {
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
-          href="https://gebitqwin.com"
+          href="https://blog.jiyugebit.com"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            文章&nbsp;
+            博客&nbsp;
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Gebit Qwin&apos;s
+            JIYUGebit&apos;s
           </p>
         </a>
 
         <a
-          href="https://docs.cyclonex.org"
+          href="https://space.bilibili.com/1039063696"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            文档&nbsp;
+            B站&nbsp;
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            提供技术支持
+            极屿Gebit的B站个人主页
           </p>
         </a>
 
         <a
-          href="https://occasionally.cyclonex.org/"
+          href="https://www.douyin.com/user/MS4wLjABAAAApKL6iI1zG_kdynY4_yaKOkE_2fWt1ChHsszL0UfHm_hhtuFUKvFZSYCzxdCq1EC-?from_tab_name=main"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            灵感&nbsp;
+            抖音&nbsp;
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            一点灵感 我们的小站
+            极屿Gebit的抖音个人主页
           </p>
         </a>
 
@@ -96,7 +96,7 @@ export default function 主页() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Pxclub 摄影论坛
+            摄影论坛
           </p>
         </a>
       </div>
