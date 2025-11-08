@@ -45,7 +45,7 @@ export default function 主页() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            JIYUGebit&apos;s
+            极屿Gebit的博客
           </p>
         </a>
 
